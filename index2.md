@@ -1,4 +1,4 @@
-# Familu secret recipes
+# Xinyan's Family secret recipes
 
 Set of recipes as given by grandma.
  
